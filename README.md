@@ -2,6 +2,8 @@
 
 Copy-Source-Destination-using powershell
 
+Note : Create a folder name "Backup" in the path were you keep the script and csv file.
+
 Purpose:
 The purpose of automation is to delegate the repetitive, tedious tasks so people can devote their time and energy to more impactful, valuable, and meaningful work, such as decision making, problem-solving, and team collaboration.
 
