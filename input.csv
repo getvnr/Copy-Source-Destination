@@ -1,0 +1,3 @@
+Source,Destination
+C:\Temp\Deployment\Source\Test1.txt,C:\Temp\Deployment\Destination\Test1.txt
+C:\Temp\Deployment\Source\Test2.txt,C:\Temp\Deployment\Destination\Test2.txt
